@@ -95,9 +95,6 @@ Integrate brush size and color options.
 Deploy using Docker for consistent development environments.
 Feel free to suggest improvements or raise issues. Happy coding! 🎉
 
-css
-Copy code
-
 This `README.md` includes all the relevant details such as project description, features, libraries used, setup instructions, folder structure, and future enhancements. It will guide anyone who wants to run your project locally or contribute to it.
 
 
