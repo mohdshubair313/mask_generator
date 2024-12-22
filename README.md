@@ -13,7 +13,7 @@ This project is a web-based tool that allows users to upload an image, draw a ma
 ### Frontend
 - **React.js**: Frontend framework for building the UI.
 - **CSS**: For styling the application.
-- **Canvas API**: To draw masks on the uploaded image.
+- **React Canvas Draw**: To draw masks on the uploaded image.
 
 ### Backend
 - **FastAPI**: Python-based framework for handling backend routes.
@@ -49,6 +49,8 @@ Start the development server:
 Copy code
 npm start
 The app will be available at http://localhost:3000.
+
+```
 
 3. Run the Backend
 Navigate to the backend directory:
